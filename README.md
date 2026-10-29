@@ -1,4 +1,4 @@
-# yota+ refresh
+# yota3+ refresh
 
 为 **YOTA 3+ 墨水背屏**提供跨应用使用的全刷悬浮按钮，帮助清除残影。
 
